@@ -1,0 +1,10 @@
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\bin\Debug\postmanInstaller.exe.config
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\bin\Debug\postmanInstaller.exe
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\bin\Debug\postmanInstaller.pdb
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.csprojAssemblyReference.cache
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.postmanInstaller1.resources
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.Properties.Resources.resources
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.csproj.GenerateResource.cache
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.csproj.CoreCompileInputs.cache
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.exe
+C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Debug\postmanInstaller.pdb
