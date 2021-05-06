@@ -29,7 +29,10 @@ namespace postmanInstaller
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-
+            if (comboBox1.SelectedItem.Equals("1.0"))
+            {
+                checkBox1.Select();
+            }
         }
 
         private void version_SelectedIndexChanged(object sender, EventArgs e)
@@ -49,6 +52,21 @@ namespace postmanInstaller
             {
                 // download baritone api
             }
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
     }
