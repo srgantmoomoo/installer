@@ -7,4 +7,3 @@ C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Re
 C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Release\postmanInstaller.csproj.CoreCompileInputs.cache
 C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Release\postmanInstaller.exe
 C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Release\postmanInstaller.pdb
-C:\Users\24sag\Desktop\postmanInstaller\postmanInstaller\postmanInstaller\obj\Release\postmanInstaller.csprojAssemblyReference.cache
